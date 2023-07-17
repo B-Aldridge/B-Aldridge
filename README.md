@@ -43,8 +43,6 @@ I love learning new programs and technologies that allow me to go the extra mile
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Snake animation](https://github.com/B-Aldridge/B-Aldridge/blob/output/github-contribution-grid-snake.svg)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
