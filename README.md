@@ -3,9 +3,9 @@
 
 I love learning new programs and technologies that allow me to go the extra mile to create meaningful, beautiful visualizations and insights with data.
 
-• :mortar_board: Graduating Vanderbilt Data Analytic Bootcamp August 2023.
+• :mortar_board: Graduating Vanderbilt Data Analytic Bootcamp August 2023 (this month).
 
-• 🌱 I’m currently learning **Machine Learning**
+• 💪 I’m currently working on **New project focusing on machine learning**
 
 • 💬 Ask me about **the Covid Statistical Dashboard** - [Link to Github](https://github.com/B-Aldridge/Covid-Statistical-Dashboard)
 
