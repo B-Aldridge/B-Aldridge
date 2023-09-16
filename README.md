@@ -3,7 +3,7 @@
 
 I love learning new programs and technologies that allow me to go the extra mile to create meaningful, beautiful visualizations and insights with data.
 
-• :mortar_board: Graduating Vanderbilt Data Analytic Bootcamp August 2023 (this month).
+• :mortar_board: Recent Graduate of Vanderbilt Data Analytic Bootcamp (August 2023).
 
 • 💪 I’m currently working on **New project focusing on machine learning**
 
