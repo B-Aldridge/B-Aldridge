@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Aldridge</h1>
-<h3 align="center">A passionate Data Analyst from Tennessee</h3>
+<h3 align="center">A passionate Analyst from Tennessee</h3>
 
 I love learning new programs and technologies that allow me to go the extra mile to create meaningful, beautiful visualizations and insights with data.
 
